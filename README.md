@@ -1,2 +1,2 @@
 # test
-test
+this repository contains nothing
